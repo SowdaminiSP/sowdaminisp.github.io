@@ -2,18 +2,24 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "ssp_site"
+  title: "Sowdamini Sesha Prasad"
   navbar:
-    left:
+    collapse-below: lg
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About me
+      - href: research.qmd
+        text: Research 
+      - href: blog.qmd
+        text: Blog
+      - icon: github
+        href: https://github.com/SowdaminiSP
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: [flatly,custom.scss]
+    #css: styles.css
+    #toc: true
 
 editor: visual
 

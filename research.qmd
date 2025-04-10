@@ -1,0 +1,7 @@
+---
+page-layout: custom
+---
+
+::: {.column-screen style="padding: 0em;margin-top: -1em"}
+![](assets/images/3682.JPEG){.banner}
+:::
