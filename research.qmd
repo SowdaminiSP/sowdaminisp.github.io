@@ -5,3 +5,13 @@ page-layout: custom
 ::: {.column-screen style="padding: 0em;margin-top: -1em"}
 ![](assets/images/3682.JPEG){.banner}
 :::
+
+### Publications {style="margin-left: 2rem; text-align: left"}
+
+-   Blanchard, J.L., Novaglio, C., Maury, O., Harrison, C.S., Petrik, C.M., Fierro‐Arcos, D., Ortega‐Cisneros, K., Bryndum‐Buchholz, A., Eddy, T.D., Heneghan, R. and Roberts, K., 2024. Detecting, attributing, and projecting global marine ecosystem and fisheries change: FishMIP 2.0. *Earth's Future*, *12*(12), p.e2023EF004402.
+
+-   Prasad, S.S., Cameron, D.D., Carter, C.G., Williamson, A. and Blanchard, J.L., 2025. Geometric stoichiometry model yields relevant insights for assessing nutrient-related environmental impacts of aquaculture. *Conservation Physiology*, *13*(1), p.coaf066.
+
+-   Hadley, S., Prasad, S.S. and Tracey, S., 2025. Feasibility of recreational scalefish enhancement in Tasmania.
+
+-   Barrington, J.H. and Prasad, S.S., Guide on removing entangled seabirds from nets.
