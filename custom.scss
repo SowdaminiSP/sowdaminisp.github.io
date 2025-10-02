@@ -42,16 +42,21 @@ $olive-green: #70845B !default;
 $teal1: #046352 !default;
 $teal2: #043d38 !default;
 $teal3: #04484d !default; 
+$forest-green: #10564f !default;
+$beige: #6f5b3e !default;
+$spearmint: #adc9c5 !default;
 
-$primary:       $deep-espresso !default;
+
+
+$primary:       $forest-green !default;
 $secondary:     $warm-ochre !default;
-$success:       $green !default;
-$info:          $cyan !default;
+$success:       $cyan !default;
+$info:          $ivory !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-200 !default;
 $dark:          $gray-700 !default;
-$bg-color:      $gray-100 !default;
+$bg-color:      $spearmint !default;
 
 $min-contrast-ratio:   2.05 !default;
 
@@ -303,4 +308,4 @@ body.dark-mode {
 
   
 }
-
+/*-- scss:footer addition --*/
