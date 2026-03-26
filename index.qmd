@@ -1,7 +1,7 @@
 ---
 about:
   template: jolla
-  image: assets/images/ssp_2022.jpg
+  image: assets/images/profile/ssp_2022.jpg
   image-shape: round
 ---
 

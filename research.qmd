@@ -3,7 +3,7 @@ page-layout: custom
 ---
 
 ::: {.column-screen style="padding: 0em;margin-top: -1em"}
-![](assets/images/brunyisland.jpg){.banner}
+![](assets/images/banners/brunyisland.jpg){.banner}
 :::
 
 This page is currently being built.

@@ -4,3 +4,27 @@
 .Ruserdata
 
 /.quarto/
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Build artifacts
+*_error.scss
+*_internal_*.scss
+
+# Archive folder (personal files - keep local only)
+assets/archive/
+
+# Apple formats (not web-compatible)
+*.HEIC
+*.heic
+
+# Large media files
+*.MP4
+*.mp4
+*.MOV
+*.mov
+
+# Temporary files
+plans/

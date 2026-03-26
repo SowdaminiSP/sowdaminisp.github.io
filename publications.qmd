@@ -3,7 +3,7 @@ page-layout: custom
 ---
 
 ::: {.column-screen style="padding: 0em;margin-top: -1em"}
-![](assets/images/alps.jpg){.banner}
+![](assets/images/banners/alps.jpg){.banner}
 :::
 
 ### Publications {style="margin-left: 2rem; text-align: left"}
